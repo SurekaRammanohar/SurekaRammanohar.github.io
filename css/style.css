@@ -8,8 +8,8 @@ body{  font: 12pt/14pt ;
  font-family: "Times New Roman", Times;
  }
 #i{ font-size: 35px; font-weight: bold;
-#i{border-radius: 20px;
+border-radius: 20px;
 	border:2px solid black;
 	margin-left: 700px;margin-right:700px;
-	text-align: center}}
+	text-align: center}
 pre {font-size: 30px;}
